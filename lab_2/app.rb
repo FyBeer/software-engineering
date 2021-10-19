@@ -35,7 +35,7 @@ def greetings
 		puts ("================Choose what you want to do==========
 			")  
 		puts ("1 = Game")
-		puts ("2 = Game with numbers ")
+		puts ("2 = Create Pokemons ")
 		puts ("0 = Output")
 
 		input = gets.to_i
