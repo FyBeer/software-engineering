@@ -11,7 +11,7 @@ class CashMachine
 	  end
 	end
  
-	def depositb
+	def deposit
 	  puts "Введите сумму"
 	  value=gets.chomp.to_i
 	  dep=@balance
