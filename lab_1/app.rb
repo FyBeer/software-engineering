@@ -25,7 +25,7 @@ def foobar
 	puts ("Enter the second number")
 	second_num = gets.to_i
 
-	puts "Результат #{calculate(first_num, second_num)}"
+	puts "Result #{calculate(first_num, second_num)}"
 	
 end
 
